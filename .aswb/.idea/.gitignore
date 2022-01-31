@@ -2,7 +2,6 @@
 /workspace.xml
 /.blaze/
 *.iml
-.gradle
 /local.properties
 /.idea/caches
 /.idea/libraries
@@ -17,3 +16,4 @@
 .cxx
 local.properties
 .idea
+.aswb/idea
